@@ -1,0 +1,32 @@
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\Parcial2NET.exe.config
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\Parcial2NET.exe
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\Parcial2NET.pdb
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.Properties.Resources.resources
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.GenerateResource.cache
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.CopyComplete
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.exe
+C:\Users\mgado\Desktop\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.pdb
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\Parcial2NET.exe.config
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\Parcial2NET.exe
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\Parcial2NET.pdb
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaVista.dll
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaControlador.dll
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaModelo.dll
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaVista.pdb
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaControlador.pdb
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\bin\Debug\CapaModelo.pdb
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.AssemblyReference.cache
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.Properties.Resources.resources
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.GenerateResource.cache
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.CoreCompileInputs.cache
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.csproj.CopyComplete
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.exe
+D:\N\Nueva carpeta\Segundoparcial\Parcial2NET\Parcial2NET\obj\Debug\Parcial2NET.pdb

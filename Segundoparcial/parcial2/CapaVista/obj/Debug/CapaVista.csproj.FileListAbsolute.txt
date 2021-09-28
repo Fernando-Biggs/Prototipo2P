@@ -1,0 +1,29 @@
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.principal.resources
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaModelo.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaVista.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaVista.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaControlador.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaModelo.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaControlador.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\bin\Debug\CapaModelo.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.MDIParent1.resources
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.principal.resources
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.comprasDetalle.resources
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaVista\obj\Debug\CapaVista.CompraEncabezado.resources

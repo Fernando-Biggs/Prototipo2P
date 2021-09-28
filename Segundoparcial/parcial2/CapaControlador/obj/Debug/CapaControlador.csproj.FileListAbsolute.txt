@@ -1,0 +1,18 @@
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaControlador.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaModelo.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.dll
+D:\N\Nueva carpeta\Segundoparcial\parcial2\CapaControlador\obj\Debug\CapaControlador.pdb
